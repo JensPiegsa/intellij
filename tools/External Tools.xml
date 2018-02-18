@@ -1,0 +1,23 @@
+<toolSet name="External Tools">
+  <tool name="VirtualBox  tu_dev starten" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="VBoxManage" />
+      <option name="PARAMETERS" value="startvm tu_dev --type headless" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="VritualBox tu_dev stoppen" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="VBoxManage" />
+      <option name="PARAMETERS" value="controlvm tu_dev poweroff" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="KiTTY" description="Remote SSH Console" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\Files\PortableApps\KiTTYPortable\KiTTYPortable.exe" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="D:/Files/PortableApps/KiTTYPortable" />
+    </exec>
+  </tool>
+</toolSet>

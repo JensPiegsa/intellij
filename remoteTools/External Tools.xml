@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Startup Transfer + JIRA" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false" CONNECTION_TYPE="NONE">
+    <exec>
+      <option name="COMMAND" value="./start-frontend.sh" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

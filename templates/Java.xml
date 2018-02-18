@@ -1,0 +1,106 @@
+<templateSet group="Java">
+  <template name="@a" value="@author Jens Piegsa" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+    </context>
+  </template>
+  <template name="@c" value="{@code $VAL$}$END$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="VAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+    </context>
+  </template>
+  <template name="run class with HierarchicalContextRunner" value="@org.junit.runner.RunWith(de.bechte.junit.runners.context.HierarchicalContextRunner.class)" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="test" value="@org.junit.Test&#10;public void $test$() throws Exception {&#10;&#9;$END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="test" expression="" defaultValue="&quot;test&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="@l" value="{@link $VAL$}$END$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="VAL" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+    </context>
+  </template>
+  <template name="@t" value="{@code true}" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+    </context>
+  </template>
+  <template name="@f" value="{@code false}" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+    </context>
+  </template>
+  <template name="@n" value="{@code null}" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+    </context>
+  </template>
+  <template name="todo" value="// TODO: $date$ $todo$ " description="" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="todo" expression="" defaultValue="&quot;take a closer look here&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+    </context>
+  </template>
+  <template name="fixme" value="// FIXME: $date$ $fixme$ " description="" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="fixme" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+    </context>
+  </template>
+  <template name="see" value="@see &lt;a href=&quot;$LINK$&quot;&gt;$DESC$&lt;/a&gt;" description="@see &lt;a href=&quot;$LINK$&quot;&gt;$DESC$&lt;/a&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="LINK" expression="" defaultValue="&quot;https://&quot;" alwaysStopAt="true" />
+    <variable name="DESC" expression="" defaultValue="&quot;Link&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+    </context>
+  </template>
+  <template name="inject log" value="@javax.inject.Inject&#10;java.util.logging.Logger $log$;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="log" expression="" defaultValue="&quot;log&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="nested class" value="public class $CLASS$ {&#10;&#9;$END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="" defaultValue="&quot;ClassName&quot; " alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="method" value="$VISIBILITY$$RETURN_TYPE$ $METHOD_NAME$($PARAMETER_TYPE$ $PARAMETER_NAME$) {&#10;&#9;$END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="VISIBILITY" expression="enum(&quot;private &quot;, &quot;&quot;, &quot;protected &quot;, &quot;public &quot;)" defaultValue="&quot;public &quot;" alwaysStopAt="true" />
+    <variable name="RETURN_TYPE" expression="complete()" defaultValue="&quot;void&quot;" alwaysStopAt="true" />
+    <variable name="METHOD_NAME" expression="suggestVariableName()" defaultValue="&quot;doWork&quot;" alwaysStopAt="true" />
+    <variable name="PARAMETER_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETER_NAME" expression="suggestVariableName(PARAMETER_TYPE)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="log" value="$LOGGER$.$LEVEL$(() -&gt; &quot;$VAR$: &quot; + $VAR$);$END$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="LOGGER" expression="variableOfType(java.util.logging.Logger)" defaultValue="&quot;log&quot;" alwaysStopAt="true" />
+    <variable name="LEVEL" expression="enum(&quot;info&quot;, &quot;warning&quot;, &quot;debug&quot;, &quot;error&quot;)" defaultValue="&quot;info&quot;" alwaysStopAt="true" />
+    <variable name="VAR" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="cast instance" value="if ($VAR$ instanceof $TYPE$) {&#10;&#9;final $TYPE$ $VAR1$ = ($TYPE$) $VAR$;&#10;&#9;$END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="variableOfType(&quot;java.lang.Object&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="&quot;Object&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR1" expression="suggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

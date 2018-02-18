@@ -1,0 +1,34 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript" />
+      <blacklist language="Java">
+        <added pattern="java.util.logging.Logger.*(msg)" />
+        <added pattern="java.time.Instant.plusSeconds(secondsToAdd)" />
+        <added pattern="org.assertj.core.api.AbstractIntegerAssert.isGreaterThan(other)" />
+        <added pattern="java.lang.String.lastIndexOf(ch)" />
+        <added pattern="org.assertj.core.api.AbstractAssert.isEqualTo(expected)" />
+        <added pattern="org.hamcrest.Matchers.containsString(substring)" />
+        <added pattern="org.assertj.core.api.AbstractBooleanAssert.isEqualTo(expected)" />
+        <added pattern="org.assertj.core.api.AbstractLongAssert.isGreaterThan(other)" />
+        <added pattern="org.assertj.core.api.AbstractIterableAssert.containsExactly(values)" />
+        <added pattern="org.apache.shiro.subject.Subject.isPermitted(permission)" />
+        <added pattern="org.apache.commons.lang3.StringUtils.equalsIgnoreCase(str1,str2)" />
+        <added pattern="org.mockito.BDDMockito.willReturn(toBeReturned)" />
+        <added pattern="org.mockito.Mockito.times(wantedNumberOfInvocations)" />
+        <added pattern="transfer.business.issues.entity.Issue.putValue(fieldId,value)" />
+        <added pattern="org.assertj.core.api.AbstractObjectAssert.extracting(propertiesOrFields)" />
+        <added pattern="org.mockito.BDDMockito.BDDMyOngoingStubbing.willReturn(value)" />
+        <added pattern="org.assertj.core.api.ListAssert.containsExactly(values)" />
+        <added pattern="org.assertj.core.api.AbstractIterableAssert.containsExactlyInAnyOrder(values)" />
+        <added pattern="org.assertj.core.api.ListAssert.containsExactlyInAnyOrder(values)" />
+        <added pattern="org.assertj.core.api.AbstractCharSequenceAssert.containsSequence(values)" />
+        <added pattern="more.robots.entity.systems.passive.StartUpSystem.ln(x)" />
+      </blacklist>
+      <blacklist language="Groovy" />
+      <blacklist language="Kotlin" />
+    </blacklists>
+    <option id="java.multiple.params.same.type" value="true" />
+    <option id="java.build.like.method" value="false" />
+  </component>
+</application>

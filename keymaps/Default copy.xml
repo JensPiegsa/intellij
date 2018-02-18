@@ -1,0 +1,30 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.Jdbc.Execute" />
+  <action id="Console.TableResult.Submit" />
+  <action id="CopyPaths" />
+  <action id="DatabaseView.CopyDdlAction" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorSplitLine" />
+  <action id="FixDocComment">
+    <keyboard-shortcut first-keystroke="shift alt j" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="Groovy.Shell.Execute" />
+  <action id="KotlinShellExecute" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="ScalaConsole.Execute" />
+  <action id="TableResult.UnselectPreviousOccurrence" />
+  <action id="UnselectPreviousOccurrence" />
+  <action id="ViewSource" />
+</keymap>
