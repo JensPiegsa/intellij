@@ -4,5 +4,9 @@
       <display-name>RequestContext.execute (org.primefaces.context)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("execute").withParameters("java.lang.String").definedInClass("org.primefaces.context.RequestContext"))]]></place>
     </injection>
+    <injection language="JavaScript" injector-id="xml">
+      <display-name>commandButton/@oncomplete</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("oncomplete")).withParent(xmlTag().withLocalName(string().equalTo("commandButton")).withNamespace(string().equalTo("http://primefaces.org/ui")))]]></place>
+    </injection>
   </component>
 </application>
