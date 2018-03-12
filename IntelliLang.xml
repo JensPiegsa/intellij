@@ -8,6 +8,10 @@
       <display-name>commandButton/@oncomplete</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("oncomplete")).withParent(xmlTag().withLocalName(string().equalTo("commandButton")).withNamespace(string().equalTo("http://primefaces.org/ui")))]]></place>
     </injection>
+    <injection language="JavaScript" injector-id="xml">
+      <display-name>fileUpload/@oncomplete</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("oncomplete")).withParent(xmlTag().withLocalName(string().equalTo("fileUpload")).withNamespace(string().equalTo("http://primefaces.org/ui")))]]></place>
+    </injection>
     <injection language="EL" injector-id="xml">
       <display-name>span/@style</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("style")).withParent(xmlTag().withLocalName(string().equalTo("span")).withNamespace(string().equalTo("http://www.w3.org/1999/xhtml")))]]></place>
