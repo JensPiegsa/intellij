@@ -3,10 +3,13 @@
     <option name="stats">
       <map>
         <entry key="'Alt+1'" value="2" />
-        <entry key="'Alt+9'" value="1" />
+        <entry key="'Alt+9'" value="2" />
         <entry key="'F3' or 'Strg+L'" value="1" />
         <entry key="'Strg+Alt+Z'" value="2" />
         <entry key="'Strg+D'" value="1" />
+        <entry key="'Strg+K'" value="2" />
+        <entry key="'Strg+M' or 'Strg+E'" value="1" />
+        <entry key="'Umschalt+F6'" value="1" />
       </map>
     </option>
   </component>
