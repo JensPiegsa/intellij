@@ -4,7 +4,7 @@
       <map>
         <entry key="'Alt+1'" value="4" />
         <entry key="'Alt+9'" value="11" />
-        <entry key="'Alt+Einfg'" value="4" />
+        <entry key="'Alt+Einfg'" value="5" />
         <entry key="'Alt+Löschen'" value="4" />
         <entry key="'Einfg'" value="3" />
         <entry key="'F2' or 'Umschalt+F6'" value="1" />
@@ -14,12 +14,13 @@
         <entry key="'Strg+Alt+H'" value="1" />
         <entry key="'Strg+Alt+Z'" value="4" />
         <entry key="'Strg+D'" value="2" />
+        <entry key="'Strg+F5'" value="3" />
         <entry key="'Strg+F9'" value="1" />
         <entry key="'Strg+K'" value="9" />
         <entry key="'Strg+M' or 'Strg+E'" value="1" />
         <entry key="'Strg+Umschalt+F10'" value="2" />
         <entry key="'Strg+Umschalt+U'" value="1" />
-        <entry key="'Umschalt+F10'" value="8" />
+        <entry key="'Umschalt+F10'" value="12" />
         <entry key="'Umschalt+F6'" value="1" />
       </map>
     </option>

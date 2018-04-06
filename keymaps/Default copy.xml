@@ -12,6 +12,9 @@
   <action id="EditorSplitLine" />
   <action id="Groovy.Shell.Execute" />
   <action id="KotlinShellExecute" />
+  <action id="Maven.Reimport">
+    <keyboard-shortcut first-keystroke="alt f5" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
