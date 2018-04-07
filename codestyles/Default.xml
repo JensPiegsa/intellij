@@ -28,6 +28,11 @@
     </option>
   </JavaCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
+    <option name="LIST_ADD_BLANK_LINE_BEFORE" value="true" />
+    <option name="NEW_BULLET_LIST_ITEM_MARKER" value="2" />
+    <option name="SMART_EDIT_TABLES" value="true" />
+    <option name="TOC_FORMAT_ON_SAVE" value="true" />
+    <option name="TOC_HEADING_LEVELS" value="28" />
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
   <codeStyleSettings language="CSS">
