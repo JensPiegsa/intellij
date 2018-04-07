@@ -25,9 +25,10 @@
         <entry key="'Strg+D'" value="4" />
         <entry key="'Strg+F5'" value="5" />
         <entry key="'Strg+F9'" value="1" />
-        <entry key="'Strg+K'" value="11" />
+        <entry key="'Strg+K'" value="13" />
         <entry key="'Strg+M' or 'Strg+E'" value="1" />
         <entry key="'Strg+Umschalt+F10'" value="2" />
+        <entry key="'Strg+Umschalt+K'" value="1" />
         <entry key="'Strg+Umschalt+U'" value="1" />
         <entry key="'Umschalt+F10'" value="61" />
         <entry key="'Umschalt+F3' or 'Strg+Umschalt+L' or 'Oben' or 'Umschalt+Eingabe'" value="2" />
