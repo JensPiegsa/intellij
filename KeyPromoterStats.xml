@@ -21,7 +21,7 @@
         <entry key="'Meta+O'" value="1" />
         <entry key="'Strg+Alt+H'" value="1" />
         <entry key="'Strg+Alt+Pos 1'" value="1" />
-        <entry key="'Strg+Alt+S'" value="24" />
+        <entry key="'Strg+Alt+S'" value="25" />
         <entry key="'Strg+Alt+Umschalt+U'" value="3" />
         <entry key="'Strg+Alt+Z'" value="5" />
         <entry key="'Strg+D'" value="4" />
@@ -32,7 +32,7 @@
         <entry key="'Strg+Umschalt+F10'" value="2" />
         <entry key="'Strg+Umschalt+K'" value="1" />
         <entry key="'Strg+Umschalt+U'" value="1" />
-        <entry key="'Umschalt+F10'" value="61" />
+        <entry key="'Umschalt+F10'" value="62" />
         <entry key="'Umschalt+F3' or 'Strg+Umschalt+L' or 'Oben' or 'Umschalt+Eingabe'" value="2" />
         <entry key="'Umschalt+F6'" value="1" />
       </map>
