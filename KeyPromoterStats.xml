@@ -3,10 +3,10 @@
     <option name="stats">
       <map>
         <entry key="'Alt+1'" value="16" />
-        <entry key="'Alt+4'" value="6" />
+        <entry key="'Alt+4'" value="7" />
         <entry key="'Alt+7'" value="13" />
         <entry key="'Alt+8'" value="2" />
-        <entry key="'Alt+9'" value="48" />
+        <entry key="'Alt+9'" value="49" />
         <entry key="'Alt+Einfg'" value="12" />
         <entry key="'Alt+F5'" value="4" />
         <entry key="'Alt+Löschen'" value="8" />
@@ -30,12 +30,12 @@
         <entry key="'Strg+D'" value="5" />
         <entry key="'Strg+F5'" value="5" />
         <entry key="'Strg+F9'" value="1" />
-        <entry key="'Strg+K'" value="23" />
+        <entry key="'Strg+K'" value="26" />
         <entry key="'Strg+M' or 'Strg+E'" value="1" />
         <entry key="'Strg+Umschalt+F10'" value="3" />
         <entry key="'Strg+Umschalt+K'" value="4" />
         <entry key="'Strg+Umschalt+U'" value="1" />
-        <entry key="'Umschalt+F10'" value="104" />
+        <entry key="'Umschalt+F10'" value="105" />
         <entry key="'Umschalt+F3' or 'Strg+Umschalt+L' or 'Oben' or 'Umschalt+Eingabe'" value="2" />
         <entry key="'Umschalt+F6'" value="1" />
       </map>
