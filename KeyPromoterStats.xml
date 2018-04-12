@@ -2,14 +2,14 @@
   <component name="KeyPromoterStats">
     <option name="stats">
       <map>
-        <entry key="'Alt+1'" value="17" />
+        <entry key="'Alt+1'" value="18" />
         <entry key="'Alt+4'" value="8" />
         <entry key="'Alt+7'" value="16" />
         <entry key="'Alt+8'" value="2" />
         <entry key="'Alt+9'" value="54" />
-        <entry key="'Alt+Einfg'" value="12" />
+        <entry key="'Alt+Einfg'" value="13" />
         <entry key="'Alt+F5'" value="4" />
-        <entry key="'Alt+Löschen'" value="8" />
+        <entry key="'Alt+Löschen'" value="9" />
         <entry key="'Alt+Rechts'" value="2" />
         <entry key="'Einfg'" value="4" />
         <entry key="'Eingabe'" value="4" />
@@ -29,16 +29,16 @@
         <entry key="'Strg+Alt+Umschalt+V'" value="1" />
         <entry key="'Strg+Alt+Z'" value="7" />
         <entry key="'Strg+D'" value="5" />
-        <entry key="'Strg+F5'" value="5" />
+        <entry key="'Strg+F5'" value="10" />
         <entry key="'Strg+F9'" value="1" />
         <entry key="'Strg+K'" value="33" />
         <entry key="'Strg+M' or 'Strg+E'" value="1" />
         <entry key="'Strg+NumPad +' or 'Strg+='" value="1" />
-        <entry key="'Strg+Umschalt+F10'" value="3" />
+        <entry key="'Strg+Umschalt+F10'" value="5" />
         <entry key="'Strg+Umschalt+K'" value="5" />
         <entry key="'Strg+Umschalt+U'" value="1" />
         <entry key="'Strg+Z' or 'Alt+Rücktaste'" value="2" />
-        <entry key="'Umschalt+F10'" value="110" />
+        <entry key="'Umschalt+F10'" value="112" />
         <entry key="'Umschalt+F3' or 'Strg+Umschalt+L' or 'Oben' or 'Umschalt+Eingabe'" value="2" />
         <entry key="'Umschalt+F6'" value="1" />
       </map>
