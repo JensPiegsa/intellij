@@ -26,6 +26,8 @@
         <added pattern="more.robots.entity.systems.passive.StartUpSystem.ln(x)" />
         <added pattern="guru.nidi.graphviz.attribute.Attributed.with(name,value)" />
         <added pattern="java.lang.String.format(l,format,args)" />
+        <added pattern="org.jboss.arquillian.graphene.wait.WebDriverWait.withTimeout(duration,unit)" />
+        <added pattern="java.util.Objects.requireNonNull(obj,message)" />
       </blacklist>
       <blacklist language="Groovy" />
       <blacklist language="Kotlin" />
