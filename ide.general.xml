@@ -11,5 +11,7 @@
     <entry key="search.everywhere.settings" value="true" />
     <entry key="keymap.show.alias.actions" value="true" />
     <entry key="ide.find.as.popup" value="false" />
+    <entry key="terminal.buffer.max.lines.count" value="100000" />
+    <entry key="ide.structureView.StructureViewTreeStructure.BuildChildrenInBackground" value="true" />
   </component>
 </application>

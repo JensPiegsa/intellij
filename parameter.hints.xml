@@ -26,6 +26,13 @@
         <added pattern="more.robots.entity.systems.passive.StartUpSystem.ln(x)" />
         <added pattern="guru.nidi.graphviz.attribute.Attributed.with(name,value)" />
         <added pattern="java.lang.String.format(l,format,args)" />
+        <added pattern="org.jboss.arquillian.graphene.wait.WebDriverWait.withTimeout(duration,unit)" />
+        <added pattern="java.util.Objects.requireNonNull(obj,message)" />
+        <added pattern="com.google.common.primitives.Booleans.asList(backingArray)" />
+        <added pattern="com.github.tomakehurst.wiremock.client.WireMock.urlMatching(urlRegex)" />
+        <added pattern="com.github.tomakehurst.wiremock.client.MappingBuilder.withQueryParam(key,queryParamPattern)" />
+        <added pattern="com.github.tomakehurst.wiremock.client.WireMock.equalTo(value)" />
+        <added pattern="transfer.business.jira.boundary.JiraIssueTrackerTest.fromFile(filename)" />
       </blacklist>
       <blacklist language="Groovy" />
       <blacklist language="Kotlin" />
