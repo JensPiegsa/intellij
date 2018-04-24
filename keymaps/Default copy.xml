@@ -19,5 +19,8 @@
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt page_down" />
+  </action>
   <action id="ViewSource" />
 </keymap>
