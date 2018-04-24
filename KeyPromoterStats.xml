@@ -3,11 +3,11 @@
     <option name="stats">
       <map>
         <entry key="'Alt+1'" value="21" />
-        <entry key="'Alt+4'" value="17" />
+        <entry key="'Alt+4'" value="18" />
         <entry key="'Alt+6'" value="1" />
         <entry key="'Alt+7'" value="16" />
         <entry key="'Alt+8'" value="2" />
-        <entry key="'Alt+9'" value="71" />
+        <entry key="'Alt+9'" value="72" />
         <entry key="'Alt+Einfg'" value="13" />
         <entry key="'Alt+F5'" value="5" />
         <entry key="'Alt+Löschen'" value="10" />
@@ -35,17 +35,17 @@
         <entry key="'Strg+F'" value="4" />
         <entry key="'Strg+F2'" value="3" />
         <entry key="'Strg+F4'" value="3" />
-        <entry key="'Strg+F5'" value="24" />
+        <entry key="'Strg+F5'" value="35" />
         <entry key="'Strg+F9'" value="1" />
         <entry key="'Strg+K'" value="48" />
         <entry key="'Strg+M' or 'Strg+E'" value="1" />
         <entry key="'Strg+NumPad +' or 'Strg+='" value="1" />
         <entry key="'Strg+S'" value="1" />
-        <entry key="'Strg+Umschalt+F10'" value="11" />
+        <entry key="'Strg+Umschalt+F10'" value="12" />
         <entry key="'Strg+Umschalt+K'" value="9" />
         <entry key="'Strg+Umschalt+U'" value="1" />
         <entry key="'Strg+Z' or 'Alt+Rücktaste'" value="2" />
-        <entry key="'Umschalt+F10'" value="173" />
+        <entry key="'Umschalt+F10'" value="177" />
         <entry key="'Umschalt+F3' or 'Strg+Umschalt+L' or 'Oben' or 'Umschalt+Eingabe'" value="3" />
         <entry key="'Umschalt+F6'" value="1" />
       </map>
