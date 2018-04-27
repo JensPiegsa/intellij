@@ -1,0 +1,27 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group seperator="true" action_type="1" position="17">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tool_External Tools_VirtualBox  tu_dev starten" is_action="true" action_type="1" position="18">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tool_External Tools_VritualBox tu_dev stoppen" is_action="true" action_type="1" position="19">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction" is_action="true" action_type="1" position="20">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="Tool_External Tools_VirtualBox  tu_dev starten" icon="$USER_HOME$/Files/Documents/Pictures/icons/VirtualBox_start_16.png" />
+    <action id="Tool_External Tools_VritualBox tu_dev stoppen" icon="$USER_HOME$/Files/Documents/Pictures/icons/VirtualBox_stop_16.png" />
+    <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction" icon="D:/Files/Documents/Pictures/icons/KiTTYPortable_16.png" />
+  </component>
+</application>
