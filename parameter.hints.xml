@@ -33,6 +33,8 @@
         <added pattern="com.github.tomakehurst.wiremock.client.MappingBuilder.withQueryParam(key,queryParamPattern)" />
         <added pattern="com.github.tomakehurst.wiremock.client.WireMock.equalTo(value)" />
         <added pattern="transfer.business.jira.boundary.JiraIssueTrackerTest.fromFile(filename)" />
+        <added pattern="java.lang.Class.getDeclaredMethod(name,parameterTypes)" />
+        <added pattern="org.assertj.core.api.AbstractAssert.describedAs(description)" />
       </blacklist>
       <blacklist language="Groovy" />
       <blacklist language="Kotlin" />
