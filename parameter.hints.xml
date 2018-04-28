@@ -35,6 +35,7 @@
         <added pattern="transfer.business.jira.boundary.JiraIssueTrackerTest.fromFile(filename)" />
         <added pattern="java.lang.Class.getDeclaredMethod(name,parameterTypes)" />
         <added pattern="org.assertj.core.api.AbstractAssert.describedAs(description)" />
+        <added pattern="java.util.ResourceBundle.getString(key)" />
       </blacklist>
       <blacklist language="Groovy" />
       <blacklist language="Kotlin" />
