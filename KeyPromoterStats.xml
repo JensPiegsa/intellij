@@ -34,7 +34,7 @@
         <entry key="'Strg+Alt+Umschalt+U'" value="3" />
         <entry key="'Strg+Alt+Umschalt+V'" value="3" />
         <entry key="'Strg+Alt+Z'" value="10" />
-        <entry key="'Strg+C' or 'Strg+Einfg'" value="2" />
+        <entry key="'Strg+C' or 'Strg+Einfg'" value="3" />
         <entry key="'Strg+D'" value="6" />
         <entry key="'Strg+F'" value="4" />
         <entry key="'Strg+F2'" value="3" />
@@ -50,6 +50,7 @@
         <entry key="'Strg+Umschalt+F10'" value="21" />
         <entry key="'Strg+Umschalt+K'" value="13" />
         <entry key="'Strg+Umschalt+U'" value="1" />
+        <entry key="'Strg+V' or 'Umschalt+Einfg'" value="1" />
         <entry key="'Strg+Z' or 'Alt+Rücktaste'" value="2" />
         <entry key="'Umschalt+F10'" value="280" />
         <entry key="'Umschalt+F3' or 'Strg+Umschalt+L' or 'Oben' or 'Umschalt+Eingabe'" value="4" />
