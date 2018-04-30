@@ -36,6 +36,9 @@
         <added pattern="java.lang.Class.getDeclaredMethod(name,parameterTypes)" />
         <added pattern="org.assertj.core.api.AbstractAssert.describedAs(description)" />
         <added pattern="java.util.ResourceBundle.getString(key)" />
+        <added pattern="org.assertj.core.api.AbstractIterableAssert.hasSize(expected)" />
+        <added pattern="org.assertj.core.api.AbstractIntegerAssert.isEqualTo(expected)" />
+        <added pattern="org.antlr.v4.runtime.ParserRuleContext.getChild(i)" />
       </blacklist>
       <blacklist language="Groovy" />
       <blacklist language="Kotlin" />
