@@ -18,9 +18,10 @@
         <entry key="'Alt+Löschen'" value="10" />
         <entry key="'Alt+Rechts'" value="8" />
         <entry key="'Alt+Umschalt+A'" value="1" />
+        <entry key="'Alt+Unten'" value="1" />
         <entry key="'Einfg'" value="4" />
         <entry key="'Eingabe'" value="5" />
-        <entry key="'Eingabe' or 'Button1 Double-Click'" value="2" />
+        <entry key="'Eingabe' or 'Button1 Double-Click'" value="3" />
         <entry key="'F2' or 'Umschalt+F6'" value="1" />
         <entry key="'F3' or 'Strg+L'" value="1" />
         <entry key="'F3' or 'Strg+L' or 'Unten' or 'Eingabe'" value="24" />
@@ -42,7 +43,7 @@
         <entry key="'Strg+D'" value="6" />
         <entry key="'Strg+F'" value="4" />
         <entry key="'Strg+F2'" value="5" />
-        <entry key="'Strg+F4'" value="14" />
+        <entry key="'Strg+F4'" value="16" />
         <entry key="'Strg+F5'" value="38" />
         <entry key="'Strg+F9'" value="1" />
         <entry key="'Strg+K'" value="63" />
@@ -56,7 +57,7 @@
         <entry key="'Strg+Umschalt+U'" value="1" />
         <entry key="'Strg+V' or 'Umschalt+Einfg'" value="3" />
         <entry key="'Strg+Z' or 'Alt+Rücktaste'" value="2" />
-        <entry key="'Umschalt+F10'" value="435" />
+        <entry key="'Umschalt+F10'" value="461" />
         <entry key="'Umschalt+F3' or 'Strg+Umschalt+L' or 'Oben' or 'Umschalt+Eingabe'" value="4" />
         <entry key="'Umschalt+F6'" value="1" />
         <entry key="'Umschalt+F7'" value="1" />
