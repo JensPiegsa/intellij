@@ -39,6 +39,7 @@
         <added pattern="org.assertj.core.api.AbstractIterableAssert.hasSize(expected)" />
         <added pattern="org.assertj.core.api.AbstractIntegerAssert.isEqualTo(expected)" />
         <added pattern="org.antlr.v4.runtime.ParserRuleContext.getChild(i)" />
+        <added pattern="sendthechords.business.chordpro.control.ChordProTest.parseAndRender(input)" />
       </blacklist>
       <blacklist language="Groovy" />
       <blacklist language="Kotlin" />
