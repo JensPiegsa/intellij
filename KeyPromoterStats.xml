@@ -44,11 +44,11 @@
         <entry key="'Strg+F'" value="4" />
         <entry key="'Strg+F2'" value="5" />
         <entry key="'Strg+F4'" value="16" />
-        <entry key="'Strg+F5'" value="38" />
+        <entry key="'Strg+F5'" value="42" />
         <entry key="'Strg+F9'" value="1" />
         <entry key="'Strg+K'" value="63" />
         <entry key="'Strg+M' or 'Strg+E'" value="1" />
-        <entry key="'Strg+NumPad +' or 'Strg+='" value="6" />
+        <entry key="'Strg+NumPad +' or 'Strg+='" value="7" />
         <entry key="'Strg+NumPad -' or 'Strg+Minus'" value="1" />
         <entry key="'Strg+S'" value="1" />
         <entry key="'Strg+Umschalt+D'" value="1" />
@@ -57,7 +57,7 @@
         <entry key="'Strg+Umschalt+U'" value="1" />
         <entry key="'Strg+V' or 'Umschalt+Einfg'" value="3" />
         <entry key="'Strg+Z' or 'Alt+Rücktaste'" value="2" />
-        <entry key="'Umschalt+F10'" value="464" />
+        <entry key="'Umschalt+F10'" value="478" />
         <entry key="'Umschalt+F3' or 'Strg+Umschalt+L' or 'Oben' or 'Umschalt+Eingabe'" value="4" />
         <entry key="'Umschalt+F6'" value="1" />
         <entry key="'Umschalt+F7'" value="1" />
