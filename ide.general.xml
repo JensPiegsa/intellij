@@ -12,5 +12,7 @@
     <entry key="keymap.show.alias.actions" value="true" />
     <entry key="terminal.buffer.max.lines.count" value="100000" />
     <entry key="ide.structureView.StructureViewTreeStructure.BuildChildrenInBackground" value="true" />
+    <entry key="type.ahead.logging.enabled" value="true" />
+    <entry key="suppress.focus.stealing" value="true" />
   </component>
 </application>
