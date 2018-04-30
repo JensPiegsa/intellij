@@ -104,7 +104,7 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="static log" value="private static final java.util.logging.Logger $log$ = Logger.getLogger($CLASS_NAME$.class.getSimpleName());" toReformat="false" toShortenFQNames="true">
+  <template name="static log" value="private static final java.util.logging.Logger $log$ = Logger.getLogger($CLASS_NAME$.class.getSimpleName());" description="" toReformat="false" toShortenFQNames="true">
     <variable name="log" expression="enum(&quot;log&quot;, &quot;LOGGER&quot;, &quot;LOG&quot;, &quot;logger&quot;)" defaultValue="log" alwaysStopAt="false" />
     <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="false" />
     <context>
