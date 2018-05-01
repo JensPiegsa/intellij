@@ -46,6 +46,7 @@
         <added pattern="java.lang.String.join(delimiter,elements)" />
         <added pattern="org.apache.commons.lang3.tuple.Pair.of(left,right)" />
         <added pattern="testing.TestResources.readFile(name)" />
+        <added pattern="org.assertj.core.api.Assertions.tuple(values)" />
       </blacklist>
       <blacklist language="Groovy" />
       <blacklist language="Kotlin" />
