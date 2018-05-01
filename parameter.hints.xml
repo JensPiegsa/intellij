@@ -45,6 +45,7 @@
         <added pattern="java.util.concurrent.Executor.execute(command)" />
         <added pattern="java.lang.String.join(delimiter,elements)" />
         <added pattern="org.apache.commons.lang3.tuple.Pair.of(left,right)" />
+        <added pattern="testing.TestResources.readFile(name)" />
       </blacklist>
       <blacklist language="Groovy" />
       <blacklist language="Kotlin" />
