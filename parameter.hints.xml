@@ -44,6 +44,7 @@
         <added pattern="org.assertj.core.api.AtomicIntegerAssert.hasValue(expectedValue)" />
         <added pattern="java.util.concurrent.Executor.execute(command)" />
         <added pattern="java.lang.String.join(delimiter,elements)" />
+        <added pattern="org.apache.commons.lang3.tuple.Pair.of(left,right)" />
       </blacklist>
       <blacklist language="Groovy" />
       <blacklist language="Kotlin" />
