@@ -42,6 +42,7 @@
         <added pattern="sendthechords.business.chordpro.control.ChordProTest.parseAndRender(input)" />
         <added pattern="org.junit.jupiter.params.provider.Arguments.of(arguments)" />
         <added pattern="org.assertj.core.api.AtomicIntegerAssert.hasValue(expectedValue)" />
+        <added pattern="java.util.concurrent.Executor.execute(command)" />
       </blacklist>
       <blacklist language="Groovy" />
       <blacklist language="Kotlin" />
