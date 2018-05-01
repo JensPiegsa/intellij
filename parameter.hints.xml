@@ -43,6 +43,7 @@
         <added pattern="org.junit.jupiter.params.provider.Arguments.of(arguments)" />
         <added pattern="org.assertj.core.api.AtomicIntegerAssert.hasValue(expectedValue)" />
         <added pattern="java.util.concurrent.Executor.execute(command)" />
+        <added pattern="java.lang.String.join(delimiter,elements)" />
       </blacklist>
       <blacklist language="Groovy" />
       <blacklist language="Kotlin" />
