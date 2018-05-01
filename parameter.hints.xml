@@ -41,6 +41,7 @@
         <added pattern="org.antlr.v4.runtime.ParserRuleContext.getChild(i)" />
         <added pattern="sendthechords.business.chordpro.control.ChordProTest.parseAndRender(input)" />
         <added pattern="org.junit.jupiter.params.provider.Arguments.of(arguments)" />
+        <added pattern="org.assertj.core.api.AtomicIntegerAssert.hasValue(expectedValue)" />
       </blacklist>
       <blacklist language="Groovy" />
       <blacklist language="Kotlin" />
