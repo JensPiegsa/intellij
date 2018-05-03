@@ -4,6 +4,7 @@
       <mapping pattern="ChordsApp" type="CLASS" />
       <mapping pattern="gitignore_global.txt" type="Git file" />
       <mapping pattern="asvc" type="PLAIN_TEXT" />
+      <mapping pattern="mvn" type="PLAIN_TEXT" />
       <mapping ext="rdf" type="XML" />
       <mapping ext="sparql" type="textmate" />
       <mapping ext="ttl" type="textmate" />
