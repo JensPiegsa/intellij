@@ -18,8 +18,14 @@
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern pattern="\btodo\b\s+@jp\s+.*" />
+    <pattern pattern="\bfixme\b \b@jp\b .*" />
+    <filter name="@JP">
+      <pattern index="2" />
+      <pattern index="3" />
+    </filter>
   </component>
 </application>
