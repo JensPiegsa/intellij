@@ -50,6 +50,9 @@
         <added pattern="org.antlr.v4.runtime.Recognizer.addErrorListener(listener)" />
         <added pattern="org.assertj.core.api.AbstractThrowableAssert.hasMessageContaining(description)" />
         <added pattern="org.assertj.core.api.AbstractListAssert.describedAs(description)" />
+        <added pattern="org.assertj.core.api.AbstractLongAssert.isEqualTo(expected)" />
+        <added pattern="org.assertj.core.api.AbstractListAssert.describedAs(description,args)" />
+        <added pattern="org.assertj.core.api.AbstractAssert.describedAs(description,args)" />
       </blacklist>
       <blacklist language="Groovy" />
       <blacklist language="Kotlin" />
