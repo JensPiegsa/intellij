@@ -33,6 +33,27 @@
         <added pattern="com.github.tomakehurst.wiremock.client.MappingBuilder.withQueryParam(key,queryParamPattern)" />
         <added pattern="com.github.tomakehurst.wiremock.client.WireMock.equalTo(value)" />
         <added pattern="transfer.business.jira.boundary.JiraIssueTrackerTest.fromFile(filename)" />
+        <added pattern="java.lang.Class.getDeclaredMethod(name,parameterTypes)" />
+        <added pattern="org.assertj.core.api.AbstractAssert.describedAs(description)" />
+        <added pattern="java.util.ResourceBundle.getString(key)" />
+        <added pattern="org.assertj.core.api.AbstractIterableAssert.hasSize(expected)" />
+        <added pattern="org.assertj.core.api.AbstractIntegerAssert.isEqualTo(expected)" />
+        <added pattern="org.antlr.v4.runtime.ParserRuleContext.getChild(i)" />
+        <added pattern="sendthechords.business.chordpro.control.ChordProTest.parseAndRender(input)" />
+        <added pattern="org.junit.jupiter.params.provider.Arguments.of(arguments)" />
+        <added pattern="org.assertj.core.api.AtomicIntegerAssert.hasValue(expectedValue)" />
+        <added pattern="java.util.concurrent.Executor.execute(command)" />
+        <added pattern="java.lang.String.join(delimiter,elements)" />
+        <added pattern="org.apache.commons.lang3.tuple.Pair.of(left,right)" />
+        <added pattern="testing.TestResources.readFile(name)" />
+        <added pattern="org.assertj.core.api.Assertions.tuple(values)" />
+        <added pattern="org.antlr.v4.runtime.Recognizer.addErrorListener(listener)" />
+        <added pattern="org.assertj.core.api.AbstractThrowableAssert.hasMessageContaining(description)" />
+        <added pattern="org.assertj.core.api.AbstractListAssert.describedAs(description)" />
+        <added pattern="org.assertj.core.api.AbstractLongAssert.isEqualTo(expected)" />
+        <added pattern="org.assertj.core.api.AbstractListAssert.describedAs(description,args)" />
+        <added pattern="org.assertj.core.api.AbstractAssert.describedAs(description,args)" />
+        <added pattern="com.github.jenspiegsa.mockitoextension.ManagedWireMockServer.failOnUnmagedRequest(failOnUnmatchedRequests)" />
       </blacklist>
       <blacklist language="Groovy" />
       <blacklist language="Kotlin" />
