@@ -55,6 +55,7 @@
         <added pattern="org.assertj.core.api.AbstractAssert.describedAs(description,args)" />
         <added pattern="com.github.jenspiegsa.mockitoextension.ManagedWireMockServer.failOnUnmagedRequest(failOnUnmatchedRequests)" />
         <added pattern="java.util.stream.Collectors.joining(delimiter)" />
+        <added pattern="org.assertj.core.api.AbstractListAssert.contains(value,index)" />
       </blacklist>
       <blacklist language="Groovy" />
       <blacklist language="Kotlin" />
