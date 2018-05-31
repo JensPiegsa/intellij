@@ -1,0 +1,8 @@
+<application>
+  <component name="CodotaConfiguration">
+    <option name="openLocalFilesInEditor" value="true" />
+    <option name="verboseLogging" value="true" />
+    <option name="webBasedUsage" value="true" />
+    <option name="host" value="PRD" />
+  </component>
+</application>
