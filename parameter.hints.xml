@@ -57,6 +57,7 @@
         <added pattern="java.util.stream.Collectors.joining(delimiter)" />
         <added pattern="org.assertj.core.api.AbstractListAssert.contains(value,index)" />
         <added pattern="java.util.stream.Stream.of(values)" />
+        <added pattern="tools.SortProperties.main(args)" />
       </blacklist>
       <blacklist language="Groovy" />
       <blacklist language="Kotlin" />
