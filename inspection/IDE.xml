@@ -459,7 +459,6 @@
   <inspection_tool class="IntegerMultiplicationImplicitCastToLong" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoreNonOverflowingCompileTimeConstants" value="true" />
   </inspection_tool>
-  <inspection_tool class="InterfaceMayBeAnnotatedFunctional" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="InterfaceNamingConvention" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_regex" value="[A-Z][A-Za-z\d]*" />
     <option name="m_minLength" value="8" />
